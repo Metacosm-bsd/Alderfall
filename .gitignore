@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw data (large files, keep local)
+data/raw/*.tif
+data/raw/*.las
+data/raw/*.laz
+data/raw/*.zip
+
+# Workspace/eval artifacts
+*-workspace/
+__pycache__/
+*.pyc
+.env
+
+# Editor files
+*.swp
+*.swo
+*~
