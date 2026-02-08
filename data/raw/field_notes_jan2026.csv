@@ -1,0 +1,23 @@
+Alderfall North Stand - Plot 3
+Survey Date: January 15, 2026
+Plot ID,Tree #,Spp,Dia.,Ht (ft),Condition,Notes
+P3,101,Red Oak,18.2,72,Good,
+P3,102,White Pine,22.5,85,Excellent,Healthy crown
+P3,103,Sugar Maple,14.8,58,,Some branch die-back
+P3,104,American Beech,11.3,48,Fair,Minor damage
+P3,105,Red Oak,19.7,75,Good,
+P3,106,White Pine,20.1,82,Good,
+P3,107,Sugar Maple,15.2,62,Excellent,
+P3,108,Hemlock,16.8,71,Good,Tight bark
+P3,109,American Beech,12.4,50,Fair,
+P3,110,Red Oak,21.3,,Good,Height not measured
+P3,111,Sugar Maple,13.9,55,Good,
+P3,112,White Pine,450,88,Dead,FLAGGED - impossible height
+P3,113,Red Oak,18.2,72,Good,Duplicate of #101?
+P3,114,Hemlock,17.5,68,Good,
+P3,115,American Beech,10.8,45,Poor,
+P3,116,Red Oak,18.2,72,Good,Another duplicate?
+P3,117,Sugar Maple,-2.1,59,Good,FLAGGED - negative DBH
+P3,118,White Pine,23.4,90,Excellent,
+P3,119,Hemlock,,70,Good,DBH not measured
+P3,120,Red Oak,19.2,74,Good,

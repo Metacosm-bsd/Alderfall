@@ -1,0 +1,17 @@
+transaction_id,date,category,subcategory,description,amount,vendor_or_payer,tax_deductible,tax_category,receipt_file,notes
+TXN-2025-001,2025-01-03,Timber Sales,Oak Lot,Timber Sale - Oak lot,125000.0,Sawyer Brothers Logging,False,,,FLAG: Amount exceeds $100k threshold - verify legitimate sale
+TXN-2025-002,2025-01-15,Equipment,Equipment Rental,Equipment Rental - Excavator,-2500.0,Reliable Rentals LLC,True,Operating,,
+TXN-2025-003,2025-01-28,Property Tax,Quarterly Tax Q1,Property Tax Q1,-8450.0,County Tax Assessor,False,,,
+TXN-2025-004,2025-02-05,Professional Services,Forester Consulting,Forester Consulting,-3200.0,New England Forestry Group,True,Operating,,
+TXN-2025-005,2025-02-14,Road Maintenance,Road Maintenance,Road Maintenance,-1500.0,Local Contractors,True,Operating,,
+TXN-2025-006,2025-03-01,Equipment,Equipment Rental,Equipment Rental - Tractor,-1800.0,Reliable Rentals LLC,True,Operating,,
+TXN-2025-007,2025-03-15,Property Tax,Quarterly Tax Q2,Property Tax Q2,-8450.0,County Tax Assessor,False,,,
+TXN-2025-008,2025-04-02,Timber Sales,Pine Stand,Timber Sale - Pine stand,87500.0,Green Wood Industries,False,,,
+TXN-2025-009,2025-04-20,Professional Services,Survey Services,Surveyor Services,-2100.0,Precision Land Surveys,True,Operating,,
+TXN-2025-010,2025-05-01,Property Tax,Quarterly Tax Q3,Property Tax Q3,-8450.0,County Tax Assessor,False,,,
+TXN-2025-011,2025-05-10,Equipment,Equipment Rental,Equipment Rental - Chipper,-1200.0,Reliable Rentals LLC,True,Operating,,
+TXN-2025-012,2025-06-15,Professional Services,Forester Consulting,Forester Consulting,-3200.0,New England Forestry Group,True,Operating,,
+TXN-2025-013,2025-07-20,Property Tax,Quarterly Tax Q4,Property Tax Q4,-8450.0,County Tax Assessor,False,,,
+TXN-2025-014,2025-08-05,Professional Services,Boundary Maintenance,Boundary Line Maintenance,-950.0,Local Contractors,True,Operating,,
+TXN-2025-015,2025-09-12,Equipment,Equipment Repair,Emergency Equipment Repair,-250000.0,Industrial Equipment Services,True,Capital,,FLAG: Large amount ($250k) requires verification. Emergency repair or equipment replacement?
+TXN-2025-016,2025-10-03,Insurance,Insurance Premium,Insurance Premium,-6800.0,State Farm Insurance,True,Operating,,
